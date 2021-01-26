@@ -1,0 +1,3 @@
+Ime i prezime: Marko Vukicevic
+Zanimanje: Ugostiteljski tehnicar
+GitHub: github.com/markoVukicevic89
